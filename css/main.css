@@ -1389,7 +1389,7 @@ hr {
     margin-right: 16px;
 }
 #certificate .certificate-section .filter-control > li.tab-active:before,
-#certificate .pcertificate-section .filter-control > li:hover:before {
+#certificate .certificate-section .filter-control > li:hover:before {
     bottom: 0;
     content: "";
     height: 1px;
@@ -1405,7 +1405,7 @@ hr {
     overflow: hidden;
     position: relative;
 }
-#certificate .pcertificate-section .certificate-grid .certificate-wrapper:before {
+#certificate .certificate-section .certificate-grid .certificate-wrapper:before {
     background-color: rgba(0, 0, 0, 0.9);
     bottom: 0;
     content: "";
