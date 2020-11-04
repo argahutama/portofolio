@@ -1307,9 +1307,6 @@ hr {
     position: absolute;
     width: 100%;
 }
-#portfolio .portfolio-section .portfolio-grid {
-    justify-content: center;
-}
 #portfolio .portfolio-section .portfolio-grid .portfolio-wrapper {
     -ms-flex-align: center;
     align-items: center;
