@@ -280,22 +280,8 @@
   #portfolio .portfolio-section .portfolio-grid .portfolio-wrapper .item-content .content-more {
     color: #009e66
   }
-
-  #certificate .certificate-section .filter-control>li.tab-active,
-  #certificate .certificate-section .filter-control>li:hover {
-    color: #00bd7a
-  }
   
-  #certificate .certificate-section .filter-control>li.tab-active:before,
-  #certificate .certificate-section .filter-control>li:hover:before {
-    background-color: #00bd7a
-  }
-  
-  #certificate .certificate-section .certificate-grid .certificate-wrapper .item-content .content-more {
-    color: #009e66
-  }
-  
-  #blog .blog-section .single-post .post-img .content-date {
+  #certificate .certificate-section .single-post .post-img .content-date {
     background-color: #009e66
   }
   
