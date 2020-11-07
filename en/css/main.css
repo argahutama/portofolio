@@ -1528,11 +1528,11 @@ hr {
     margin-bottom: 0;
 }
 #contact .contact-section .contact-info .list-info .info-details .info-value a {
-    color: #9f9f9f !important;
+    color: #009e66 !important;
 }
 #contact .contact-section .contact-info .list-info .info-details .info-value a:focus,
 #contact .contact-section .contact-info .list-info .info-details .info-value a:hover {
-    color: #797979 !important;
+    color: #009e66 !important;
 }
 @media (max-width: 1199.98px) {
     #contact .contact-section .contact-form .form-group {
